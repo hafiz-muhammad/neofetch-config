@@ -1,5 +1,1 @@
-# My Neofetch Configuration
-
-![Screenshot](/images/screenshot.png)
-
-Download Nerd Fonts to correctly render the icons: https://www.nerdfonts.com/font-downloads
+# This repository has been merged with [configs](https://github.com/hafiz-muhammad/configs)
